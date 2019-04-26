@@ -16,5 +16,14 @@ namespace ensyu0426
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            button1.Visible = true;
+            button1.Left = 0;
+            button1.Text = "押された";
+            button1.
+
+        }
     }
 }
